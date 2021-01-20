@@ -1,0 +1,162 @@
+
+/* header section  */
+
+#header {
+  background-color: #f6f5f5;
+  color: #145374;
+  text-align: center;
+
+}
+
+.header-row {
+  text-align: center;
+
+}
+
+.title {
+  font-family:"Montserrat";
+
+  font-weight: 900;
+  font-size: 3rem;
+  line-height: 2;
+  margin-bottom: 80px;
+
+}
+
+
+
+.animated-l
+
+{ border-radius: 5%;
+  max-width:inherit;
+
+
+}
+
+.nav-link {
+  font-size: 1.2rem;
+
+}
+
+
+.navbar {
+margin-bottom: 50px;
+}
+
+.nav-item {
+  margin:0 10px;
+}
+
+
+
+.download-button-google{
+margin-left: 30px;
+
+}
+/* services section  */
+
+#body{
+
+  text-align:center;
+  background-color: #ee6f57;
+  padding: 3% 10% ;
+
+  font-family: 'Montserrat',sans-serif;
+
+}
+
+p{
+
+  color: #00334e;
+  opacity: 0.7;
+}
+
+
+
+h1,h2,h3,h4,h5 {
+  color:#145374;
+}
+
+
+.services{
+  padding-top: 20px;
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+
+.image {
+  width: 160px;
+  height: 160px;
+
+}
+
+
+/* testimonial section  */
+#testimonials {
+
+  text-align: center;
+  background-color:  #f6f5f5;
+
+}
+
+
+.carousel-button {
+  background-color:#ee6f57;
+
+}
+
+
+h2 {
+  font-size: 3rem;
+}
+
+
+.carousel-inner {
+  padding: 8% 25%;
+}
+
+
+#pricing{
+  padding:3% 10%;
+  background-color: #f6f5f5;
+  text-align: center;
+
+}
+
+/* .card-header {
+  text-align: left;
+} */
+
+
+.pd {
+
+  padding-bottom: 8px;
+}
+
+
+#footer{
+  background-color: #ee6f57;
+  padding: 3% 15%;
+  text-align: center;
+}
+
+
+
+
+.bouton {
+  padding: 20px 20px;
+  margin: 20px 20px;
+}
+
+
+#social-media{
+  color:#f6f5f5;
+  text-align: center;
+  padding: 3% 15%;
+}
+
+.social-m {
+  padding: 0 20px;
+  font-size: 30px;
+}
